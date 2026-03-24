@@ -38,6 +38,7 @@ CloudWatch Metrics  ──►  CloudWatch Alarm (CPU > 70%)
 | **IAM** | Security group rules controlling inbound traffic (ports 22, 80, 443) |
 
 ---
+<img width="2343" height="847" alt="image" src="https://github.com/user-attachments/assets/ff9e405c-a5b4-4cee-9d49-77cbf1217fa7" />
 
 ## Project Structure
 
