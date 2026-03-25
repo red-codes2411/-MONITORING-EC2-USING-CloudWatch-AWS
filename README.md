@@ -72,6 +72,12 @@ yes > /dev/null &
 
 ---
 
+Dashboard under CloudWatch :
+<img width="1919" height="673" alt="Screenshot 2026-03-24 232118" src="https://github.com/user-attachments/assets/1bbefc51-62dc-4da9-843e-a939e274e02b" />
+Email Alerts received using SNS :
+<img width="1456" height="582" alt="Screenshot 2026-03-24 232255" src="https://github.com/user-attachments/assets/bd120232-88b3-447e-b191-075cfc721fcd" />
+<img width="1327" height="418" alt="Screenshot 2026-03-24 232340" src="https://github.com/user-attachments/assets/f57be853-10da-4305-8289-607eff60c6a9" />
+
 ## Architecture Decisions
 
 - **t3.micro** — Free Tier eligible (750 hours/month). Sufficient for a demo web server.
